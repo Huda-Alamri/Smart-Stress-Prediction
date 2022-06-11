@@ -8,11 +8,10 @@
 
 ## 3. Dataset
 The dataset is Stress Detection from Kaggle Website, it contains 630 rows and 9 columns. For a better understanding of the database there is the description of a column below:
-
-| Syntax      | Description | Test Text     |
-| :---        |    :----:   |          ---: |
-| Header      | Title       | Here's this   |
-| Paragraph   | Text        | And more      |
+| Variable      | Definition |
+| :---          |    ----:   |
+| sr            | snoring rate |
+| rr     | respiration rate |
 ## 4. Tools
 These are the technologies and libraries that we will be using for this project:
 
