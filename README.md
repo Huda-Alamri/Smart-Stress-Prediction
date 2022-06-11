@@ -9,5 +9,10 @@
 # 3. Dataset
 
 # 4. Tools
+## These are the technologies and libraries that we will be using for this project:
 
-#Communication
+* Technologies: Python, Colab Notebook.
+* Libraries: NumPy, Pandas, Matplotlib, scipy, xgboost, Scikit-learn.
+
+# Communication
+## Please feel free to let me know if you have any questions. Email: <Hudaalamri2@gmail.com>
