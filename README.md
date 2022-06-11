@@ -1,4 +1,4 @@
-<h1 align="center">Smart-Stress-Prediction</h1>
+<h1 align="center">Smart Stress Prediction</h1>
 
 ![image](https://drive.google.com/uc?export=view&id=1h_0sG7wH7bdIxr-u5QV4hMQ8j0ik8HeC)
 
@@ -7,7 +7,7 @@
 ## 2. Problem Statement
 
 ## 3. Dataset
-The dataset is Stress Detection from Kaggle Website, it contains 630 rows and 9 columns. For a better understanding of the database there is the description of a column below:
+The dataset is [Nesta CMS](http://effectif.com/nesta "Stress Detection") from Kaggle Website, it contains 630 rows and 9 columns. For a better understanding of the database there is the description of a column below:
 | Variable | Definition |
 | :--- |    :----   |
 | sr |snoring rate |
