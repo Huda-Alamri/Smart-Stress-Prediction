@@ -7,11 +7,14 @@
 ## 2. Problem Statement
 
 ## 3. Dataset
-### The dataset is Stress Detection from Kaggle Website, it contains 630 rows and 9 columns. For a better understanding of the database there is the description of a column below:
-| Variable      | Definition |
+The dataset is Stress Detection from Kaggle Website, it contains 630 rows and 9 columns. For a better understanding of the database there is the description of a column below:
 
+| Syntax      | Description | Test Text     |
+| :---        |    :----:   |          ---: |
+| Header      | Title       | Here's this   |
+| Paragraph   | Text        | And more      |
 ## 4. Tools
-### These are the technologies and libraries that we will be using for this project:
+These are the technologies and libraries that we will be using for this project:
 
 * Technologies: Python, Colab Notebook.
 * Libraries: NumPy, Pandas, Matplotlib, scipy, xgboost, Scikit-learn.
