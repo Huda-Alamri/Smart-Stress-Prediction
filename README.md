@@ -25,7 +25,7 @@ The dataset is [Stress Detection](http://effectif.com/nesta) from Kaggle website
 ## 4. Tools
 These are the technologies and libraries that we will be using for this project:
 
-* Technologies: Python, Juypter Notebook.
+* Technologies: Python, Jupyter Notebook.
 * Libraries: NumPy, Pandas, Matplotlib, scipy, xgboost, Scikit-learn.
 
 ## Communication
