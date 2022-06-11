@@ -3,8 +3,10 @@
 ![image](https://drive.google.com/uc?export=view&id=1h_0sG7wH7bdIxr-u5QV4hMQ8j0ik8HeC)
 
 ## 1. Introduction
+This is the final project of the Samsung Innovation Camous AI Course, which is about detecting  human stress in and through the sleep by predicting stress level in the next days by building Machine Learning models using Python with Sklearn. Below are details of the problem statement, a description of the dataset and tools we will be using for the project.
 
 ## 2. Problem Statement
+
 
 ## 3. Dataset
 The dataset is [Stress Detection](http://effectif.com/nesta) from Kaggle website, it contains 630 rows and 9 columns. For a better understanding of the database there is the description of the columns below:
@@ -23,7 +25,7 @@ The dataset is [Stress Detection](http://effectif.com/nesta) from Kaggle website
 ## 4. Tools
 These are the technologies and libraries that we will be using for this project:
 
-* Technologies: Python, Colab Notebook.
+* Technologies: Python, Juypter Notebook.
 * Libraries: NumPy, Pandas, Matplotlib, scipy, xgboost, Scikit-learn.
 
 ## Communication
