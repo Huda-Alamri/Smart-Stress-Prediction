@@ -1,3 +1,3 @@
-             # Smart-Stress-Prediction
+# Smart-Stress-Prediction
 
-![foxdemo](https://hub.misk.org.sa/programs/skills/samsung-ai/.png)
+![image](https://drive.google.com/uc?export=view&id=<1h_0sG7wH7bdIxr-u5QV4hMQ8j0ik8HeC>)
