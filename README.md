@@ -8,11 +8,18 @@
 
 ## 3. Dataset
 The dataset is Stress Detection from Kaggle Website, it contains 630 rows and 9 columns. For a better understanding of the database there is the description of a column below:
-| Variable      | Definition |
-| :---          |    ----:   |
-| sr            | snoring rate |
-| rr     | respiration rate |
+| Variable | Definition |
+| :--- |    ----:   |
+| sr |snoring rate |
+| rr | respiration rate |
 | t | body temperature |
+| lm | limb movement |
+| bo | blood oxygen |
+| rem | eye movement |
+| sh | sleeping hours |
+| hr | heart rate |
+| sl | stress level |
+
 ## 4. Tools
 These are the technologies and libraries that we will be using for this project:
 
