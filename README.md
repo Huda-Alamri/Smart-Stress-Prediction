@@ -7,7 +7,7 @@
 ## 2. Problem Statement
 
 ## 3. Dataset
-The dataset is [Stress Detection](http://effectif.com/nesta) from Kaggle Website, it contains 630 rows and 9 columns. For a better understanding of the database there is the description of a column below:
+The dataset is [Stress Detection](http://effectif.com/nesta) from Kaggle website, it contains 630 rows and 9 columns. For a better understanding of the database there is the description of the columns below:
 | Variable | Definition |
 | :--- |    :----   |
 | sr |snoring rate |
