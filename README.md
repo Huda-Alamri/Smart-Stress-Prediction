@@ -12,6 +12,7 @@ The dataset is Stress Detection from Kaggle Website, it contains 630 rows and 9 
 | :---          |    ----:   |
 | sr            | snoring rate |
 | rr     | respiration rate |
+| t | body temperature |
 ## 4. Tools
 These are the technologies and libraries that we will be using for this project:
 
