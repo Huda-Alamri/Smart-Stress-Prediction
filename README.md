@@ -3,7 +3,7 @@
 ![image](https://drive.google.com/uc?export=view&id=1h_0sG7wH7bdIxr-u5QV4hMQ8j0ik8HeC)
 
 ## 1. Introduction
-This is the final project of the Samsung Innovation Camous AI Course, which is about detecting  human stress in and through the sleep by predicting stress level (Low, Medium Low, Medium, Medium High, and High stress)in the next days by building Machine Learning models using Python with Sklearn. Below are details of the problem statement, a description of the dataset and tools we will be using for the project.
+This is the final project of the Samsung Innovation Campus AI Course, which is about detecting  human stress in and through the sleep by predicting stress level (Low, Medium Low, Medium, Medium High, and High stress)in the next days by building Machine Learning models using Python with Sklearn. Below are details of the problem statement, a description of the dataset and tools we will be using for the project.
 
 ## 2. Problem Statement
 One of the most important factors of life quality is stress. A stressful life is often unenjoyable and unfunctional. When stress levels increase, stress could impede normal daily life tasks resulting in the disruption of the individual’s responsibilities. The quality of good or deep sleep plays a main role in the next day's stress level. Understanding the physiological changes such as the snoring, respiration rate, body temperature, limb movement rate, blood oxygen levels, eye movement, and number of hours of sleep during sleep helps in understanding the next day stress level. Hence, our aim in this project is to utilize data gathered from a dataset to predict the stress level using machine learning algorithms.
